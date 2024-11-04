@@ -54,7 +54,7 @@ INSERT INTO revenue (day, online, offline)
 VALUES
 ('Mon', 14, 12.5),
 ('Tue', 17, 12),
-('Wen', 6, 23),
+('Wed', 6, 23),
 ('Thu', 16, 7),
 ('Fri', 13, 12),
 ('Sat', 17, 13),
